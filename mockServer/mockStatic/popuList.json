@@ -1,0 +1,45 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "projectName": "泰禾昌平拾景园，开开心心过大年",
+            "status": 1,
+            "statusName": "投放中",
+            "period": "2018.12.12-2018.12.22",
+            "channelName": "微信朋友圈",
+            "exposureNum": "12300",
+            "clickNum": "569",
+            "clueNum": ""
+        },
+        {
+            "projectName": "泰禾昌平拾景园，开开心心过大年",
+            "status": 1,
+            "statusName": "投放中",
+            "period": "2018.12.12-2018.12.22",
+            "channelName": "微信朋友圈",
+            "exposureNum": "12300",
+            "clickNum": "",
+            "clueNum": "129"
+        },
+        {
+            "projectName": "泰禾昌平拾景园，开开心心过大年",
+            "status": 1,
+            "statusName": "投放中",
+            "period": "2018.12.12-2018.12.22",
+            "channelName": "微信朋友圈",
+            "exposureNum": "",
+            "clickNum": "569",
+            "clueNum": "129"
+        },
+        {
+            "projectName": "泰禾昌平拾景园，开开心心过大年",
+            "status": 1,
+            "statusName": "投放中",
+            "period": "2018.12.12-2018.12.22",
+            "channelName": "微信朋友圈",
+            "exposureNum": "12300",
+            "clickNum": "569",
+            "clueNum": "129"
+        }
+    ]
+}

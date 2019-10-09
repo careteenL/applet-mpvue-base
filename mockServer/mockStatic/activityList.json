@@ -1,0 +1,55 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "activityName": "88.00元看房红包",
+            "activityId": 7365,
+            "status": 1,
+            "statusName": "等待开始",
+            "period": "2018.12.12-2018.12.22",
+            "getNum": "12300",
+            "contactNum": "569",
+            "visitNum": "34"
+        },
+        {
+            "activityName": "北京欢乐谷水上门票",
+            "activityId": 7365,
+            "status": 1,
+            "statusName": "等待开始",
+            "period": "2018.12.12-2018.12.22",
+            "getNum": "12300",
+            "contactNum": "569",
+            "visitNum": "34"
+        },
+        {
+            "activityName": "188元专车券",
+            "activityId": 7365,
+            "status": 1,
+            "statusName": "等待开始",
+            "period": "2018.12.12-2018.12.22",
+            "getNum": "12300",
+            "contactNum": "569",
+            "visitNum": "34"
+        },
+        {
+            "activityName": "泰禾昌平拾景园，开开心心过大年",
+            "activityId": 7365,
+            "status": 1,
+            "statusName": "等待开始",
+            "period": "2018.12.12-2018.12.22",
+            "getNum": "12300",
+            "contactNum": "569",
+            "visitNum": "34"
+        },
+        {
+            "activityName": "泰禾昌平拾景园，开开心心过大年",
+            "activityId": 7365,
+            "status": 1,
+            "statusName": "等待开始",
+            "period": "2018.12.12-2018.12.22",
+            "getNum": "12300",
+            "contactNum": "569",
+            "visitNum": "34"
+        }
+    ]
+}

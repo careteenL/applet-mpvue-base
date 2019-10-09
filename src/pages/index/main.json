@@ -1,0 +1,8 @@
+{
+    "disableScroll": false,
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark",
+    "navigationBarTitleText": "外呼",
+    "navigationBarBackgroundColor": "#FF2222",
+    "navigationBarTextStyle": "white"
+}

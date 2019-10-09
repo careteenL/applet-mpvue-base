@@ -1,0 +1,91 @@
+@import "@/styles/common.scss";
+/* color variables */
+$white: #fff;
+$gray: #c9c9c9;
+$gray-darker: #666;
+
+/* default colors */
+$text-color: #666;
+$active-color: #e8e8e8;
+$background-color: #fff;
+
+$line-height: 20px;
+
+.cell {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px 10px 15px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: $white;
+    color: $text-color;
+    font-size: 16px;
+    overflow: hidden;
+    text-align: left;
+    height: 55px;
+
+    @include m-r1bb(#e5e5e5);
+
+    &__label {
+        font-size: 12px;
+        color: $gray-darker;
+    }
+
+    &__title {
+        flex: 1;
+        word-break: break-all;
+    }
+
+    &__value {
+        flex: 2;
+        word-break: break-all;
+    }
+
+    &__value {
+        overflow: hidden;
+        text-align: right;
+        position: relative;
+        vertical-align: middle;
+
+        &--alone {
+            text-align: left;
+        }
+    }
+
+    &__logo {
+        margin-left: 20rpx;
+        display: inline-block;
+        width: 70rpx;
+        height: 70rpx;
+        img {
+            width: 70rpx;
+            height: 70rpx;
+            border-radius: 100%;
+        }
+    }
+
+    &__left-icon {
+        line-height: $line-height;
+        margin-right: 15px;
+        min-width: 20px;
+    }
+
+    &__right-icon {
+        color: #9f9fa6;
+        font-size: 12px;
+        line-height: $line-height;
+        margin-left: 11px;
+        font-family: "icon2018";
+
+        &::before {
+            content: "\e912";
+        }
+    }
+
+    &--clickable {
+        &:active {
+            background-color: $active-color;
+        }
+    }
+}

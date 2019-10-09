@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "data": {
+        "activityId": 1353,
+        "activityName": "这是一个一条活动名称",
+        "getNum": "11498",
+        "contactNum": "569",
+        "visitNum": "129",
+        "sentTicketNum": "78",
+        "useTicketNum": "45",
+        "totalPrice": "82773"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "data": {
+        "activityId": 1353,
+        "activityName": "这是一个一条活动名称",
+        "status": 1,
+        "statusName": "正在进行",
+        "period": "2018.12.12-2018.12.22",
+        "type": 1,
+        "typeName": "看房红包",
+        "unitPrice": "88元",
+        "withdrawNum": "50个",
+        "isShow": true,
+        "signAdd": "北京市海淀区西土城路十号搜狐焦点北京办公室102"
+    }
+}

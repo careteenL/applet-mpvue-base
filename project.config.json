@@ -1,0 +1,148 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"nodeModules": false
+	},
+	"miniprogramRoot": "dist/wx/",
+	"compileType": "miniprogram",
+	"appid": "wx35e389017ca0999c",
+	"projectname": "applet-dsp-agent",
+	"libVersion": "2.6.5",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 16,
+			"list": [
+				{
+					"id": -1,
+					"name": "login",
+					"pathName": "pages/login/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "choose-account",
+					"pathName": "pages/choose-account/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "account",
+					"pathName": "pages/account/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "admins",
+					"pathName": "pages/administrator/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "add-admin",
+					"pathName": "pages/add-admin/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "popularize-manage",
+					"pathName": "pages/popularize-manage/main",
+					"query": ""
+				},
+				{
+					"id": 6,
+					"name": "popularize-detail",
+					"pathName": "pages/popularize-detail/main",
+					"query": "activityId=488717127",
+					"scene": null
+				},
+				{
+					"id": 7,
+					"name": "activity-manage",
+					"pathName": "pages/activity-manage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 8,
+					"name": "activity-detail",
+					"pathName": "pages/activity-detail/main",
+					"query": "activityId=488717127",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "clue-item",
+					"pathName": "pages/clue-item/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "clue-manage",
+					"pathName": "pages/clue-manage/main",
+					"query": ""
+				},
+				{
+					"id": 11,
+					"name": "clue-detail",
+					"pathName": "pages/clue-detail/main",
+					"query": "clueTel=15711090216",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "counselor-manage",
+					"pathName": "pages/counselor-manage/main",
+					"query": ""
+				},
+				{
+					"id": 13,
+					"name": "counselor-detail",
+					"pathName": "pages/counselor-detail/main",
+					"query": "userId=144144647",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "clue-manage",
+					"pathName": "pages/clue-manage/main",
+					"query": ""
+				},
+				{
+					"id": 15,
+					"name": "sms-login",
+					"pathName": "pages/sms-login/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "clue-detail",
+					"pathName": "pages/diy-date/main",
+					"query": "clueTel=15711090216",
+					"scene": null
+				}
+			]
+		}
+	}
+}

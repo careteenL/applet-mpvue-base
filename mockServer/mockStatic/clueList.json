@@ -1,0 +1,71 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "clueId": 2240,
+            "clueMobile": "13409569069",
+            "status": 1,
+            "statusName": "已联系",
+            "channelName": "微信朋友圈广告、焦点PC",
+            "clueType": "400来电、表单提交 ",
+            "counselor": "张小明",
+            "time": "2019.01.02 20:22:31",
+            "action": "领取红包"
+        },
+        {
+            "clueId": 2240,
+            "clueMobile": "13409569069",
+            "status": 1,
+            "statusName": "已联系",
+            "channelName": "微信朋友圈广告、焦点PC",
+            "clueType": "400来电、表单提交 ",
+            "counselor": "张小明",
+            "time": "2019.01.02 20:22:31",
+            "action": "领取红包"
+        },
+        {
+            "clueId": 2240,
+            "clueMobile": "13409569069",
+            "status": 1,
+            "statusName": "已联系",
+            "channelName": "微信朋友圈广告、焦点PC",
+            "clueType": "400来电、表单提交 ",
+            "counselor": "张小明",
+            "time": "2019.01.02 20:22:31",
+            "action": "领取红包"
+        },
+        {
+            "clueId": 2240,
+            "clueMobile": "13409569069",
+            "status": 1,
+            "statusName": "已联系",
+            "channelName": "微信朋友圈广告、焦点PC",
+            "clueType": "400来电、表单提交 ",
+            "counselor": "张小明",
+            "time": "2019.01.02 20:22:31",
+            "action": "领取红包"
+        },
+        {
+            "clueId": 2240,
+            "clueMobile": "13409569069",
+            "status": 1,
+            "statusName": "已联系",
+            "channelName": "微信朋友圈广告、焦点PC",
+            "clueType": "400来电、表单提交 ",
+            "counselor": "张小明",
+            "time": "2019.01.02 20:22:31",
+            "action": "领取红包"
+        },
+        {
+            "clueId": 2240,
+            "clueMobile": "13409569069",
+            "status": 1,
+            "statusName": "已联系",
+            "channelName": "微信朋友圈广告、焦点PC",
+            "clueType": "400来电、表单提交 ",
+            "counselor": "张小明",
+            "time": "2019.01.02 20:22:31",
+            "action": "领取红包"
+        }
+    ]
+}

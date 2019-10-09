@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "data": {
+        "projectId": 1,
+        "exposureNum": "12490",
+        "clueNum": "389",
+        "contactedNum": "378",
+        "visitedNum": "23",
+        "lookedNum": "12"
+    }
+}

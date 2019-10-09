@@ -1,0 +1,13 @@
+{
+    "pages": [
+        "pages/login/main",
+        "pages/index/main"
+    ],
+
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#4499FF",
+        "navigationBarTextStyle": "white",
+        "backgroundColor": "#F5F7FC"
+    }
+}

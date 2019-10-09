@@ -1,0 +1,26 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "userId": 2352521,
+            "role": 1,
+            "roleName": "管理员",
+            "userName": "张小月",
+            "mobile": "13567823345"
+        },
+        {
+            "userId": 2352522,
+            "role": 0,
+            "roleName": "超级管理员",
+            "userName": "张小火",
+            "mobile": "1356782345"
+        },
+        {
+            "userId": 2352524,
+            "role": 1,
+            "roleName": "管理员",
+            "userName": "张小地",
+            "mobile": "13567849087"
+        }
+    ]
+}

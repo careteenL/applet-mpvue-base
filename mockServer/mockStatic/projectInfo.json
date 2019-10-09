@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "data": {
+        "projectId": 1,
+        "projectName": "北京泰禾昌平拾景园",
+        "cityName": "北京",
+        "lpName": "泰禾昌平拾景园",
+        "company": "北京焦点地产开发有限公司",
+        "validActivityNum": 2,
+        "curPopularizeNum": 1
+    }
+}

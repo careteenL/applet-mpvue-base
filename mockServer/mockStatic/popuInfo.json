@@ -1,0 +1,17 @@
+{
+    "code": 200,
+    "data": {
+        "popuId": 1,
+        "popuName": "这是一个一条计划名称",
+        "status": 1,
+        "statusName": "待投放",
+        "channelName": "微信朋友圈",
+        "period": "2018.12.12-2018.12.22",
+        "relevActivity": "188元看房红包、免费看房专车",
+        "exposureNum": "24",
+        "clickNum": "569",
+        "clueNum": "129",
+        "contactNum": "78",
+        "visitNum": "45"
+    }
+}
